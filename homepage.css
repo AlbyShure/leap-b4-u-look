@@ -8,8 +8,8 @@ h1 {
   border-style: double;
   font-family: Bradley Hand ITC;
   opacity: .9s;
-
 }
+
 body {
   background: teal;
 }
@@ -31,6 +31,9 @@ border-color: orange;
 }
 
 button {
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
     background-color: orange;
     color: aqua;
     padding: 15px 32px;
