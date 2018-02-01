@@ -47,6 +47,21 @@ $('#play-8').on('click', function () {
 'Sovereign.mp3');
 });
 
+$('#play-f').on('click', function () {
+  $('#audio-file').attr('src',
+'Fly.mp3');
+});
+
+$('#play-h').on('click', function () {
+  $('#audio-file').attr('src',
+'Hiding.wav');
+});
+
+$('#play-s').on('click', function () {
+  $('#audio-file').attr('src',
+'Still Looking.mp3');
+});
+
 $('#play-9').on('click', function () {
   $('#audio-file').attr('src',
 'Memories.mp3');
