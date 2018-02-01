@@ -52,6 +52,11 @@ $('#play-9').on('click', function () {
 'Memories.mp3');
 });
 
+$('#play-10').on('click', function () {
+  $('#audio-file').attr('src',
+'Endeavors.mp3');
+});
+
 $('#play-11').on('click', function () {
   $('#audio-file').attr('src',
 'Your Soul.mp3');

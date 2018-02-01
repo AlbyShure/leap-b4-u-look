@@ -11,6 +11,10 @@ h1 {
   image: url('blu.jpg');
 }
 
+div {
+  text-align: center;
+}
+
 body {
   background: teal;
    background-image: url("dark.jpg");
@@ -41,7 +45,7 @@ button {
     background-color: orange;
     color: #d85600;
     padding: 15px 32px;
-    text-align: center;
+    text-align: right;
     text-decoration: none;
     display: inline-block;
     font-family: Times New Roman;
@@ -66,6 +70,8 @@ h3 {
 }
 
 #play-1 {
+  color: red;
+  font-family: fantasy;
   background-image: url('Endless Fantasy.jpg');
 }
 
@@ -74,39 +80,54 @@ h3 {
 }
 
 #play-3 {
+  color: blue;
+  font-family: fantasy;
   background-image: url('primo.jpg');
 }
 
 #play-4 {
-  color: #ff9400;
+  color: #28e2ae;
   background-image: url('arazu.jpg');
-  font-family: Castellar;
+  font-family: fantasy;
 }
 
 #play-5 {
+  color: #b524cc;
   background-image: url('kintsugi.jpg');
 }
 
 #play-6 {
+  color: grey;
   background-image: url('lilypads.jpg');
 }
 
 #play-7 {
+  color: aqua;
   background-image: url('zZz.jpg');
 }
 
 #play-8 {
+  color: #ff632b;
+  font-family: fantasy;
   background-image: url('sovereign.jpg');
 }
 
 #play-9 {
+  color: #21ceff;
   background-image: url('cosmos.jpg');
 }
 
+#play-10 {
+  color: teal;
+  background-image: url('endeavors.jpg');
+}
+
 #play-11 {
+  color: violet;
   background-image: url('your soul.jpg');
 }
 
 #play-12 {
+  color: #8042f4;
   background-image: url('falling.jpg');
 }
