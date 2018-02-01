@@ -54,6 +54,7 @@ button {
     border-spacing: inherit;
     background-position: center;
     background-size: cover;
+    opacity: .8;
 }
 h3 {
   text-align: center;
