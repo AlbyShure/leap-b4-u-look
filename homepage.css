@@ -14,16 +14,18 @@ div {
 
 body {
   background: teal;
-   background-image: url("hippies.gif");
+   background-image: url('clouds.gif');
    background-attachment: fixed;
    background-size: cover;
 }
 
 p {
-  color: lime;
-  font-family: Bradley Hand ITC;
+  color: green;
+  font-family: Fantasy;
   font-size: 20;
   font-style: normal;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 audio {
 display: hidden;
