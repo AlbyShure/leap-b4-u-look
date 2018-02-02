@@ -9,14 +9,12 @@ h1 {
 }
 
 div {
-  background-image: url('hippies.gif');
-  background-size: cover;
   text-align: center;
 }
 
 body {
   background: teal;
-   background-image: url("dark.jpg");
+   background-image: url("hippies.gif");
    background-attachment: fixed;
    background-size: cover;
 }
@@ -54,7 +52,6 @@ button {
     border-spacing: inherit;
     background-position: center;
     background-size: cover;
-    opacity: .8;
 }
 h3 {
   text-align: center;
