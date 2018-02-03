@@ -34,26 +34,27 @@ border-color: orange;
 }
 
 button {
-    background-color: orange;
-    color: #d85600;
-    padding: 15px 32px;
-    text-align: left;
-    text-decoration: none;
-    display: inline-block;
-    font-family: Times New Roman;
-    font-size: 25;
-    border-radius: 100px 100px;
-    border-top-color: teal;
-    border-top-right-radius: pink;
-    border-bottom-color: orange;
-    border-top-left-radius: blue;
-    border-left-color:  lime;
-    border-right-color: purple;
-    border-bottom-left-radius: red;
-    border-bottom-left-radius: yellow;
-    border-spacing: inherit;
-    background-position: center;
-    background-size: cover;
+  background-color: orange;
+  color: #d85600;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-family: arial;
+  font-size: 25;
+  border-top-color: teal;
+  border-top-right-radius: pink;
+  border-bottom-color: orange;
+  border-top-left-radius: blue;
+  border-left-color:  lime;
+  border-right-color: purple;
+  border-bottom-left-radius: red;
+  border-bottom-left-radius: yellow;
+  border-spacing: inherit;
+  background-position: center;
+  background-size: cover;
+  border-radius: 100px 100px;
+  padding: 75px;
 }
 h3 {
   text-align: center;
