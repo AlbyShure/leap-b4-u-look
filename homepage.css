@@ -42,7 +42,7 @@ button {
   display: inline-block;
   font-family: arial;
   font-size: 25;
-  border-color: inherit;
+  border-color: transparent;
   border-spacing: inherit;
   background-position: center;
   background-size: cover;
