@@ -1,11 +1,11 @@
 h1 {
-  text-align: center;
   color: aqua;
   background: orange;
   border-style: double;
   font-family: cursive;
   background-image: url('keely.jpeg');
   background-size: 2000px 500px;
+  text-align: center;
 }
 
 div {
@@ -42,14 +42,7 @@ button {
   display: inline-block;
   font-family: arial;
   font-size: 25;
-  border-top-color: teal;
-  border-top-right-radius: pink;
-  border-bottom-color: orange;
-  border-top-left-radius: blue;
-  border-left-color:  lime;
-  border-right-color: purple;
-  border-bottom-left-radius: red;
-  border-bottom-left-radius: yellow;
+  border-color: inherit;
   border-spacing: inherit;
   background-position: center;
   background-size: cover;
