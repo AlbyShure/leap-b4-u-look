@@ -10,6 +10,7 @@ h1 {
 
 div {
   text-align: center;
+  background-color: transparent;
 }
 
 body {
@@ -162,6 +163,13 @@ h2 {
   font-size: 100;
   font-family: fantasy;
   background-image: url('still looking.jpg');
+}
+
+#play-w {
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('We Rise.jpg');
 }
 
 #play-10 {
