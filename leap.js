@@ -67,6 +67,11 @@ $('#play-9').on('click', function () {
 'Memories.mp3');
 });
 
+$('#play-w').on('click', function () {
+  $('#audio-file').attr('src',
+'We Rise.wav');
+});
+
 $('#play-10').on('click', function () {
   $('#audio-file').attr('src',
 'Endeavors.mp3');
