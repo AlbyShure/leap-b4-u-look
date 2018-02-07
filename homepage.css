@@ -8,6 +8,51 @@ h1 {
   text-align: center;
 }
 
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
 div {
   text-align: center;
 }
@@ -17,6 +62,7 @@ body {
    background-image: url('clouds.gif');
    background-attachment: fixed;
    background-size: cover;
+   padding-bottom: 100px;
 }
 
 p {
@@ -37,7 +83,7 @@ button {
   background-color: orange;
   color: #d85600;
   padding: 15px 32px;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-family: arial;
@@ -67,6 +113,17 @@ h2 {
   text-align: center;
 }
 
+h5 {
+  background: transparent;
+  }
+
+#plan {
+  border-radius: 100px 100px;
+  border-color: inherit;
+  border-spacing: inherit;
+  padding: 75px;
+  background-image: url('sleep away.jpg');
+}
 
 #play {
   color: transparent;
@@ -81,6 +138,7 @@ h2 {
 }
 
 #play-1 {
+  padding: 75px;
   color: transparent;
   font-family: fantasy;
   font-size: 100;
@@ -88,6 +146,7 @@ h2 {
 }
 
 #play-2 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -95,6 +154,7 @@ h2 {
 }
 
 #play-3 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -102,6 +162,7 @@ h2 {
 }
 
 #play-4 {
+  padding: 75px
   color: transparent;
   font-size: 100;
   background-image: url('arazu.jpg');
@@ -109,6 +170,7 @@ h2 {
 }
 
 #play-5 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -116,6 +178,7 @@ h2 {
 }
 
 #play-6 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -123,6 +186,7 @@ h2 {
 }
 
 #play-7 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -130,6 +194,7 @@ h2 {
 }
 
 #play-8 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -137,6 +202,7 @@ h2 {
 }
 
 #play-f {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -144,6 +210,7 @@ h2 {
 }
 
 #play-h {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -151,6 +218,7 @@ h2 {
 }
 
 #play-9 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -158,6 +226,7 @@ h2 {
 }
 
 #play-s {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -165,6 +234,7 @@ h2 {
 }
 
 #play-w {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -172,6 +242,7 @@ h2 {
 }
 
 #play-10 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -179,6 +250,7 @@ h2 {
 }
 
 #play-11 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;
@@ -186,6 +258,7 @@ h2 {
 }
 
 #play-12 {
+  padding: 75px;
   color: transparent;
   font-size: 100;
   font-family: fantasy;

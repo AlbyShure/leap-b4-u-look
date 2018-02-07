@@ -2,8 +2,18 @@ $('#play').on('click', function() {
   $('audio')[0].play();
 });
 
+$('#plan').on('click', function() {
+  $('#audio-file').attr('src',
+'Sleep Away.mp3');
+});
+
 $('#pause').on('click', function() {
   $('audio')[0].pause();
+});
+
+$('#kalimba').on('click', function() {
+  $('#audio-file').attr('src',
+'Kalimba.mp3')
 });
 
 $('#play-1').on('click', function() {
