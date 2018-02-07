@@ -1,3 +1,7 @@
+alert("Because this website is not optimized for mobile use, you may experience some areas that glitch out at times or a non-animated background. You will also have to press the song buttons twice before listening. Thank You."
+)
+
+
 $('#play').on('click', function() {
   $('audio')[0].play();
 });
