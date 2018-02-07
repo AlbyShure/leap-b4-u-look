@@ -1,4 +1,4 @@
-alert("Because this website is not optimized for mobile use, you may experience some areas that glitch out at times or a non-animated background. You will also have to press the song buttons twice before listening. Thank You."
+alert("If you are on a smartphone or tablet, you may experience glitched out spots or a non-animated background because this website is not optimized for mobile use. You will also have to press the song buttons twice before listening. Thank You."
 )
 
 
