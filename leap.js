@@ -6,6 +6,11 @@ $('#play').on('click', function() {
   $('audio')[0].play();
 });
 
+$('#alone').on('click', function() {
+  $('#audio-file').attr('src',
+'Alone.mp4');
+});
+
 $('#plan').on('click', function() {
   $('#audio-file').attr('src',
 'Sleep Away.mp3');

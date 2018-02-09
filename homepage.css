@@ -137,6 +137,14 @@ h5 {
   font-size: 39;
 }
 
+#alone {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Alone.jpg');
+}
+
 #play-1 {
   padding: 75px;
   color: transparent;
