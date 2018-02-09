@@ -26,7 +26,8 @@ h1 {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-image: url('more orange.jpg');
+    border-radius: 75px 75px;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -70,8 +71,8 @@ p {
   font-family: Fantasy;
   font-size: 20;
   font-style: normal;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 audio {
 display: hidden;
@@ -82,7 +83,6 @@ border-color: orange;
 button {
   background-color: orange;
   color: #d85600;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -116,6 +116,8 @@ h2 {
 h5 {
   background: transparent;
   }
+
+
 
 #plan {
   border-radius: 100px 100px;
