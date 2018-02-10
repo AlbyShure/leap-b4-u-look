@@ -117,14 +117,12 @@ h5 {
   background: transparent;
   }
 
-
-
-#plan {
+#views {
   border-radius: 100px 100px;
   border-color: inherit;
   border-spacing: inherit;
   padding: 75px;
-  background-image: url('sleep away.jpg');
+  background-image: url('Perfect Views.jpg');
 }
 
 #play {
@@ -145,6 +143,166 @@ h5 {
   font-family: fantasy;
   font-size: 100;
   background-image: url('Alone.jpg');
+}
+
+#marijuana {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Marijuana.jpg');
+}
+
+#world {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('The Next World.png');
+}
+
+#revolution {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Revolution.jpg');
+}
+
+#ocean {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Ocean Floor Kisses.jpg');
+}
+
+#pure {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Pure.jpg');
+}
+
+#hearts {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hearts.jpg');
+}
+
+#hyperparadise {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hyperparadise.jpg');
+}
+
+#hyperreal {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hyperreal.jpg');
+}
+
+#warm {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Warm Thoughts.jpg');
+}
+
+#paper {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Paper Thin.jpg');
+}
+
+#ezra {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Warm Thoughts.jpg');
+}
+
+#animals {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Animals.jpg');
+}
+
+#sleepless {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Paper Thin.jpg');
+}
+
+#lost {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Lost and Found.jpg');
+}
+
+#together {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Peace.jpg');
+}
+
+#lean {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Peace.jpg');
+}
+
+#You {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('You n Me.jpg');
+}
+
+#day {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('One Day Theyll Know.jpg');
+}
+
+#aftergold {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Aftergold.jpg');
+}
+
+#wild {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('When I Get There.jpg');
 }
 
 #play-1 {
@@ -179,14 +337,6 @@ h5 {
   font-family: fantasy;
 }
 
-#play-5 {
-  padding: 75px;
-  color: transparent;
-  font-size: 100;
-  font-family: fantasy;
-  background-image: url('kintsugi.jpg');
-}
-
 #play-6 {
   padding: 75px;
   color: transparent;
@@ -201,14 +351,6 @@ h5 {
   font-size: 100;
   font-family: fantasy;
   background-image: url('zZz.jpg');
-}
-
-#play-8 {
-  padding: 75px;
-  color: transparent;
-  font-size: 100;
-  font-family: fantasy;
-  background-image: url('sovereign.jpg');
 }
 
 #play-f {

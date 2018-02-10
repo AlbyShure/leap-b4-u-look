@@ -11,9 +11,123 @@ $('#alone').on('click', function() {
 $('audio')[0].play();
 });
 
-$('#plan').on('click', function() {
+$('#revolution').on('click', function() {
   $('#audio-file').attr('src',
-'Sleep Away.mp3');
+'Revolution.mp4');
+$('audio')[0].play();
+});
+
+$('#hyperparadise').on('click', function() {
+  $('#audio-file').attr('src',
+'Hyperparadise.mp4');
+$('audio')[0].play();
+});
+
+$('#hyperreal').on('click', function() {
+  $('#audio-file').attr('src',
+'Hyperreal.mp4');
+$('audio')[0].play();
+});
+
+$('#warm').on('click', function() {
+  $('#audio-file').attr('src',
+'Warm Thoughts.mp4');
+$('audio')[0].play();
+});
+
+$('#animals').on('click', function() {
+  $('#audio-file').attr('src',
+'Animals.mp4');
+$('audio')[0].play();
+});
+
+$('#together').on('click', function() {
+  $('#audio-file').attr('src',
+'Be Together.mp4');
+$('audio')[0].play();
+});
+
+$('#lean').on('click', function() {
+  $('#audio-file').attr('src',
+'Lean On.mp4');
+$('audio')[0].play();
+});
+
+$('#ezra').on('click', function() {
+  $('#audio-file').attr('src',
+'Ezra.mp4');
+$('audio')[0].play();
+});
+
+$('#paper').on('click', function() {
+  $('#audio-file').attr('src',
+'Paper Thin.mp4');
+$('audio')[0].play();
+});
+
+$('#sleepless').on('click', function() {
+  $('#audio-file').attr('src',
+'Sleepless.mp4');
+$('audio')[0].play();
+});
+
+$('#pure').on('click', function() {
+  $('#audio-file').attr('src',
+'Pure.mp4');
+$('audio')[0].play();
+});
+
+$('#hearts').on('click', function() {
+  $('#audio-file').attr('src',
+'Hearts.mp4');
+$('audio')[0].play();
+});
+
+$('#wild').on('click', function() {
+  $('#audio-file').attr('src',
+'When I Get There.mp4');
+$('audio')[0].play();
+});
+
+$('#You').on('click', function() {
+  $('#audio-file').attr('src',
+'You n Me.mp4');
+$('audio')[0].play();
+});
+
+$('#aftergold').on('click', function() {
+  $('#audio-file').attr('src',
+'Aftergold.mp4');
+$('audio')[0].play();
+});
+
+$('#lost').on('click', function() {
+  $('#audio-file').attr('src',
+'Lost and Found.mp4');
+$('audio')[0].play();
+});
+
+$('#day').on('click', function() {
+  $('#audio-file').attr('src',
+'One Day Theyll Know.mp4');
+$('audio')[0].play();
+});
+
+$('#marijuana').on('click', function() {
+  $('#audio-file').attr('src',
+'Marijuana.mp4');
+$('audio')[0].play();
+});
+
+$('#world').on('click', function() {
+  $('#audio-file').attr('src',
+'The Next World.mp4');
+$('audio')[0].play();
+});
+
+$('#ocean').on('click', function() {
+  $('#audio-file').attr('src',
+'Ocean Floor Kisses.mp4');
 $('audio')[0].play();
 });
 
@@ -55,13 +169,6 @@ $('audio')[0].play();
 $('#play-4').on('click', function () {
   $('#audio-file').attr('src',
 'Arazu.mp3');
-$('audio')[0].play();
-});
-
-
-$('#play-5').on('click', function () {
-  $('#audio-file').attr('src',
-'Kintsugi.mp3');
 $('audio')[0].play();
 });
 
