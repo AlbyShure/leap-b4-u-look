@@ -17,6 +17,13 @@ $('#plan').on('click', function() {
 $('audio')[0].play();
 });
 
+$('#views').on('click', function() {
+  $('#audio-file').attr('src',
+'Perfect Views.mp4');
+$('audio')[0].play();
+});
+
+
 $('#pause').on('click', function() {
   $('audio')[0].pause();
 });
@@ -67,12 +74,6 @@ $('audio')[0].play();
 $('#play-7').on('click', function () {
   $('#audio-file').attr('src',
 'zZz.mp3');
-$('audio')[0].play();
-});
-
-$('#play-8').on('click', function () {
-  $('#audio-file').attr('src',
-'Sovereign.mp3');
 $('audio')[0].play();
 });
 
