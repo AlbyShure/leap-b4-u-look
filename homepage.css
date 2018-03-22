@@ -68,10 +68,6 @@ h1 {
     border-bottom: 3px solid #fff;
 }
 
-div {
-  text-align: center;
-}
-
 body {
   background: teal;
    background-image: url('dark.jpg');
@@ -132,6 +128,9 @@ h5 {
 
 #canvas {
   position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #views {
