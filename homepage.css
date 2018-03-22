@@ -131,7 +131,7 @@ h5 {
   }
 
 #canvas {
-  position: center;
+  position: fixed;
 }
 
 #views {
