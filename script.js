@@ -1,7 +1,7 @@
 window.AudioContext = window.AudioContext || window.webkitAudioContext || window.mozAudioContext;
 
 window.onload = function() {
-    var audio = document.getElementById('audio');
+    var audio = document.getElementById('audio-file');
     var ctx = new AudioContext();
     var analyser = ctx.createAnalyser();
     var audioSrc = ctx.createMediaElementSource(audio);
@@ -25,9 +25,9 @@ window.onload = function() {
         capYPositionArray = []; ////store the vertical position of hte caps for the preivous frame
     ctx = canvas.getContext('2d'),
     gradient = ctx.createLinearGradient(0, 0, 0, 300);
-    gradient.addColorStop(1, '#0f0');
-    gradient.addColorStop(0.5, '#ff0');
-    gradient.addColorStop(0, '#f00');
+    gradient.addColorStop(1, 'aqua');
+    gradient.addColorStop(0.5, 'maroon');
+    gradient.addColorStop(0, 'orange');
     // loop
     function renderFrame() {
         var array = new Uint8Array(analyser.frequencyBinCount);

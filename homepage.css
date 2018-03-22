@@ -130,6 +130,10 @@ h5 {
   background: transparent;
   }
 
+#canvas {
+  position: center;
+}
+
 #views {
   border-radius: 100px 100px;
   border-color: inherit;
