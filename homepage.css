@@ -54,6 +54,20 @@ h1 {
     background-color: #3e8e41;
 }
 
+.bar-wrapper {
+    height: 300px;
+    position: relative;
+}
+.bar {
+    position: relative;
+    bottom: 0;
+    width: 5px;
+    display: inline-block;
+    border: 1px solid red;
+    height: 5px;
+    border-bottom: 3px solid #fff;
+}
+
 div {
   text-align: center;
 }
@@ -74,8 +88,7 @@ p {
   padding-left: 100px;
   padding-right: 100px;
 }
-audio {
-display: hidden;
+#audio-file {
 background-color: orange;
 border-color: orange;
 }
