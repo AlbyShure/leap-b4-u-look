@@ -66,6 +66,7 @@ h1 {
     border: 1px solid red;
     height: 5px;
     border-bottom: 3px solid #fff;
+    opacity: 0;
 }
 
 body {
@@ -74,6 +75,10 @@ body {
    background-attachment: fixed;
    background-size: cover;
    padding-bottom: 100px;
+}
+
+div {
+  text-align: center;
 }
 
 p {
@@ -112,7 +117,6 @@ h4 {
   color: teal;
   font-family: fantasy;
   font-size: 50;
-  text-align: center;
 }
 
 h2 {
@@ -144,8 +148,7 @@ h5 {
 #play {
   color: transparent;
   background-image: url('play.jpg');
-  font-size: 39;
-}
+  font-size: 39;}
 
 #pause {
   color: transparent;
