@@ -148,12 +148,18 @@ h5 {
 #play {
   color: transparent;
   background-image: url('play.jpg');
-  font-size: 39;}
+  font-size: 39;
+}
 
 #pause {
   color: transparent;
   background-image: url('pause.jpg');
   font-size: 39;
+}
+
+#yote {
+  width: 800px;
+  height: 350px;
 }
 
 #alone {
