@@ -117,6 +117,7 @@ h4 {
   color: teal;
   font-family: fantasy;
   font-size: 50;
+  text-align: center;
 }
 
 h2 {
@@ -130,7 +131,7 @@ h5 {
   background: transparent;
   }
 
-#canvas {
+#canvasrevert {
   position: fixed;
   left: 50%;
   top: 50%;
@@ -155,11 +156,6 @@ h5 {
   color: transparent;
   background-image: url('pause.jpg');
   font-size: 39;
-}
-
-#yote {
-  width: 800px;
-  height: 350px;
 }
 
 #alone {
