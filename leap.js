@@ -17,6 +17,12 @@ $('#go').on('click', function() {
 $('audio')[0].play();
 });
 
+$('#trndsttr').on('click', function() {
+  $('#audio-file').attr('src',
+'Trndsttr.mp4');
+$('audio')[0].play();
+});
+
 $('#revolution').on('click', function() {
   $('#audio-file').attr('src',
 'Revolution.mp4');
