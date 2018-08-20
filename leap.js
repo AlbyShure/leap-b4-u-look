@@ -5,6 +5,18 @@ $('#play').on('click', function() {
   $('audio')[0].play();
 });
 
+$('#pearls').on('click', function() {
+  $('#audio-file').attr('src',
+'I Have Lost My Pearls.mp4');
+$('audio')[0].play();
+});
+
+$('#high').on('click', function() {
+  $('#audio-file').attr('src',
+'Summer Time High Time.mp4');
+$('audio')[0].play();
+});
+
 $('#alone').on('click', function() {
   $('#audio-file').attr('src',
 'Alone.mp4');

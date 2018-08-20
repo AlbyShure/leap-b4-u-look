@@ -161,6 +161,22 @@ h5 {
   font-size: 39;
 }
 
+#pearls {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('You Think You are a Comic!.jpg');
+}
+
+#high {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Chiquito.jpg');
+}
+
 #alone {
   padding: 75px;
   color: transparent;
