@@ -5,9 +5,34 @@ $('#play').on('click', function() {
   $('audio')[0].play();
 });
 
+$('#howard').on('click', function() {
+  $('#audio-file').attr('src',
+'Howard.mp4');
+$('audio')[0].play();
+});
+
+
+$('#radar').on('click', function() {
+  $('#audio-file').attr('src',
+'Radar.mp4');
+$('audio')[0].play();
+});
+
+$('#union').on('click', function() {
+  $('#audio-file').attr('src',
+'A More Perfect Union.mp4');
+$('audio')[0].play();
+});
+
 $('#pearls').on('click', function() {
   $('#audio-file').attr('src',
 'I Have Lost My Pearls.mp4');
+$('audio')[0].play();
+});
+
+$('#winnebago').on('click', function() {
+  $('#audio-file').attr('src',
+'Winnebago.mp4');
 $('audio')[0].play();
 });
 

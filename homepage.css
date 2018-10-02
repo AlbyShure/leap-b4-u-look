@@ -116,6 +116,10 @@ h3 {
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+}
+
 h4 {
   color: teal;
   font-family: fantasy;
@@ -159,6 +163,38 @@ h5 {
   color: transparent;
   background-image: url('pause.jpg');
   font-size: 39;
+}
+
+#howard {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('howard.jpg');
+}
+
+#radar {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Radar.jpg');
+}
+
+#union {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('union.jpg');
+}
+
+#winnebago {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Winnebago.jpg');
 }
 
 #pearls {
