@@ -5,6 +5,12 @@ $('#play').on('click', function() {
   $('audio')[0].play();
 });
 
+$('#slowdancing').on('click', function() {
+  $('#audio-file').attr('src',
+'slowdancing.mp4');
+$('audio')[0].play();
+});
+
 $('#howard').on('click', function() {
   $('#audio-file').attr('src',
 'Howard.mp4');

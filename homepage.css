@@ -74,7 +74,7 @@ h1 {
 
 body {
   background: teal;
-   background-image: url('caste_nostalgia.jpg');
+   background-image: url('illusion.jpg');
    background-attachment: fixed;
    background-size: cover;
    padding-bottom: 100px;
@@ -164,6 +164,15 @@ h5 {
   background-image: url('pause.jpg');
   font-size: 39;
 }
+
+#slowdancing{
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('ballads.jpg');
+}
+
 
 #howard {
   padding: 75px;
