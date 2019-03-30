@@ -1,6 +1,3 @@
-alert("If you are on a smartphone or tablet, you may experience choppy areas or a non-animated background. This is because this website is not optimized for mobile use. You may also have to press the song buttons twice before listening. Thank You."
-)
-
 $('#play').on('click', function() {
   $('audio')[0].play();
 });
